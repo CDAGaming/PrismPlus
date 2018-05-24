@@ -24,9 +24,9 @@ archivesBaseName = "PrismPlus"
 version = "1.1.0"
 
 minecraft {
-    version = "1.12.2-14.23.3.2655"
+    version = "1.12.2-14.23.3.2702"
     runDir = "run"
-    mappings = "snapshot_20171003"
+    mappings = "snapshot_20180524"
     makeObfSourceJar = false
 }
 
